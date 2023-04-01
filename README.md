@@ -1,4 +1,4 @@
-# mini_quiz_project_using_python
+# Problem_Statement
 
 This is a mini project that performs a quiz.
 This includes storing the user details and score in a database
